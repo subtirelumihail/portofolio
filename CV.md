@@ -21,6 +21,21 @@ Social
 Current experience
 ----
 
+### Devicehub.net && Openfleetlabs - Bucharest
+*Senior Front End Developer ( march 2016 )*
+
+- Improve the current devicehub.net platform
+- Work on various IoT projects
+- Create and implement a ticketing solution for Openfleetlabs
+- Create a mobile application
+
+**Tech used** : React.js, Webpack, Sass, python, Mysql, React Native, Electron, Xcode, Java, C#, nodejs
+
+---
+
+Past experience
+----
+
 ### WowApp - Bucharest
 *Senior Front End Developer ( february 2016 )*
 
@@ -29,11 +44,6 @@ Current experience
 - Participate in all phases of development process
 
 **Tech used** : Javascript, Coffescript, Stylus, HTML5, Node.js, Brunch, BackboneJS, Chaplin
-
----
-
-Past experience
-----
 
 ### Ari Matrix - Bucharest
 *Senior Front End Developer ( september 2015 – february 2016 )*
@@ -79,7 +89,7 @@ Past experience
 **Tech used** : PHP, MySQL, Javascript, SCSS, HTML5, Less, Node.js, Gulp.js, Wordpress, Codeigniter, Smarty, Github, Facebook Javascript & PHP SDK, jQuery
 
 
-### Romnet Creatuve - Bucharest
+### Romnet Creative - Bucharest
 *Web Developer (march 2013 – august 2013)*
 
 - Develop multiple web applications for various clients
