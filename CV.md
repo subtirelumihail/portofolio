@@ -140,6 +140,7 @@ Technologies & tools
 | React.js      | used          | +++++ |
 | Node.js       | used          | +++++ |
 | Webpack.js    | used          | +++   |
+| React Native  | used          | ++++ |
 | Gulp.js       | very used     | ++++  |
 | jQuery        | very used     | +++++ |
 | Backbone.js   | used          | +++   |
