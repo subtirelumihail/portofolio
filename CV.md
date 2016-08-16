@@ -121,7 +121,7 @@ Past experience
 
 
 ### Ipsos Interactive Service
-*Front End Developer & QA (july 2012 - june 2012)*
+*Front End Developer & QA (june 2011 - july 2012)*
 
 - Develop online surveys using front end technologies
 - Test surveys created by other developers
