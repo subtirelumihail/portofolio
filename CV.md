@@ -21,20 +21,26 @@ Social
 Current experience
 ----
 
+### Rinftech - Bucharest
+
+*Senior Front End Developer ( octomber 2016 - present )*
+
+**Tech used** : React.js, Webpack, Sass, Java, Nodejs
+
+---
+
+Past experience
+----
+
 ### Devicehub.net && Openfleetlabs - Bucharest
-*Senior Front End Developer ( march 2016 )*
+*Senior Front End Developer ( march 2016 - octomber 2016 )*
 
 - Improve the current devicehub.net platform
 - Work on various IoT projects
 - Create and implement a ticketing solution for Openfleetlabs
 - Create a mobile application
 
-**Tech used** : React.js, Webpack, Sass, python, Mysql, React Native, Electron, Xcode, Java, C#, nodejs
-
----
-
-Past experience
-----
+**Tech used** : React.js, Webpack, Sass, python, Mysql, React Native, Electron, Xcode, Java, C#, Nodejs
 
 ### WowApp - Bucharest
 *Senior Front End Developer ( february 2016 )*
