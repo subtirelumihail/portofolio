@@ -143,14 +143,15 @@ Technologies & tools
 | Technologies  | Frequency     | Skill |
 | ------------- |-------------  | ----- |
 | Javascript    | very used     | +++++ |
-| React.js      | used          | +++++ |
-| Node.js       | used          | +++++ |
-| Webpack.js    | used          | +++   |
-| React Native  | used          | ++++ |
+| React.js      | very used     | +++++ |
+| Vue.js        | used          | +++ |
+| Node.js       | very used     | +++++ |
+| Webpack.js    | very used     | +++++ |
+| React Native  | used          | ++++  |
 | Gulp.js       | very used     | ++++  |
 | jQuery        | very used     | +++++ |
 | Backbone.js   | used          | +++   |
-| MongoDB       | less used     | ++    |
+| MongoDB       | used          | ++++  |
 | CSS           | very used     | +++++ |
 | SCSS          | very used     | +++++ |
 | HTML5         | very used     | +++++ |
