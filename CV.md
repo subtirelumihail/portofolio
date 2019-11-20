@@ -21,16 +21,22 @@ Social
 Current experience
 ----
 
-### Rinftech - Bucharest
+### Metrosystems - Bucharest
 
-*Senior Front End Developer ( octomber 2016 - present )*
+*Senior Front End Developer ( march 2018 - present )*
 
-**Tech used** : React.js, Webpack, Sass, Java, Nodejs
+**Tech used** : React.js, Webpack, Sass, Nodejs, Typescript, Express, Cassandra
 
 ---
 
 Past experience
 ----
+
+### Rinftech - Bucharest
+
+*Senior Front End Developer ( octomber 2016 - march 2018 )*
+
+**Tech used** : React.js, Webpack, Sass, Java, Nodejs
 
 ### Devicehub.net && Openfleetlabs - Bucharest
 *Senior Front End Developer ( march 2016 - octomber 2016 )*
