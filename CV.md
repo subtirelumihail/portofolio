@@ -177,7 +177,7 @@ Status: Completed
 
 
 
-#### "Nicolae Iorga" High School (2008 - 2011) - Bucharest
+#### "Nicolae Iorga" High School (2004 - 2008) - Bucharest
 Profile: Computer Science
 
 ---
