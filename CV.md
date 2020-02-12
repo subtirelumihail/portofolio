@@ -31,7 +31,7 @@ Current experience
 
 *Fullstack Developer ( octomber 2016 - present )*
 
-**Tech used** : React.js, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Python, Golang, any many more ...
+**Tech used** : React.js, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Python, Golang, any many more...
 
 ---
 
