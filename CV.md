@@ -27,6 +27,12 @@ Current experience
 
 **Tech used** : React.js, Webpack, Sass, Nodejs, Typescript, Express, Cassandra
 
+### Freelancer - Bucharest
+
+*Fullstack Developer ( octomber 2016 - present )*
+
+**Tech used** : React.js, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Python, Golang, any many more ...
+
 ---
 
 Past experience
