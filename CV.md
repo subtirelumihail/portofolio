@@ -46,7 +46,7 @@ Current experience
 - Develop fast paced prototypes 
 - Develop Android and iOS mobile applications for B2B
 
-**Tech used** : React.js, Redux, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Docker, Jest, Unit Testing, Python, Golang, any many more...
+**Tech used** : React.js, Redux, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Docker, Jest, Unit Testing, Python, Golang and many more...
 
 ---
 
