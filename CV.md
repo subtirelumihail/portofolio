@@ -1,7 +1,7 @@
 # Subtirelu Mihail Gabriel
 
 
-**Phone:** +40 762 277 372 / **Email:** dazzzz2007@gmail.com
+**Phone:** +40 762 277 372 / **Email:** mihail@subtirelu.info
 
 **Date of birth:** 02 octomber 1989
 
@@ -11,6 +11,8 @@
 
 Social
 ---
+
+**Website:** https://subtirelu.info
 
 **Github:** https://github.com/subtirelumihail
 
@@ -25,13 +27,26 @@ Current experience
 
 *Senior Front End Developer ( march 2018 - present )*
 
-**Tech used** : React.js, Webpack, Sass, Nodejs, Typescript, Express, Cassandra
+- Develop a large scale application
+- In charge of the front end architecture
+- Participate in all phases of development process
+- Integrate the best services on the market
+
+**Tech used** : React.js, Webpack, Sass, Nodejs, Typescript, Express, Docker, Cassandra, Jest, Redux, Unit Testing
 
 ### Freelancer - Bucharest
 
 *Fullstack Developer ( octomber 2016 - present )*
 
-**Tech used** : React.js, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Python, Golang, any many more...
+- Develop large scale applications
+- In charge of the front end architecture
+- Participate in all phases of development process
+- Integrate the best services on the market
+- Involvement in DevOps work 
+- Develop fast paced prototypes 
+- Develop Android and iOS mobile applications for B2B
+
+**Tech used** : React.js, Redux, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Docker, Jest, Unit Testing, Python, Golang, any many more...
 
 ---
 
@@ -52,7 +67,7 @@ Past experience
 - Create and implement a ticketing solution for Openfleetlabs
 - Create a mobile application
 
-**Tech used** : React.js, Webpack, Sass, python, Mysql, React Native, Electron, Xcode, Java, C#, Nodejs
+**Tech used** : React.js, Webpack, Sass, python, Mysql, React Native, Electron, Docker, Xcode, Java, C#, Nodejs
 
 ### WowApp - Bucharest
 *Senior Front End Developer ( february 2016 )*
@@ -156,8 +171,12 @@ Technologies & tools
 | ------------- |-------------  | ----- |
 | Javascript    | very used     | +++++ |
 | React.js      | very used     | +++++ |
-| Vue.js        | used          | +++ |
+| Redux         | very used     | +++++ |
+| Typescript    | used          | ++++  |
+| Jest          | used          | ++++  |
 | Node.js       | very used     | +++++ |
+| Express       | very used     | +++++ |
+| Docker        | very used     | +++++ |
 | Webpack.js    | very used     | +++++ |
 | React Native  | used          | ++++  |
 | Gulp.js       | very used     | ++++  |
@@ -176,11 +195,10 @@ Educations
 ---
 
 #### Romanian - American University Law School (2008 - 2012) - Bucharest
-Status: Abanndoned
+Status: Abanndoned (4th year)
 
 #### Romanian - American University of Computer Science And Management (2008 - 2011) - Bucharest
 Status: Completed
-
 
 
 #### "Nicolae Iorga" High School (2004 - 2008) - Bucharest
