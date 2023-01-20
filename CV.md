@@ -23,28 +23,17 @@ Social
 Current experience
 ----
 
-### Metrosystems - Bucharest
-
-*Senior Front End Developer ( march 2018 - present )*
-
-- Develop a large scale application
-- In charge of the front end architecture
-- Participate in all phases of development process
-- Integrate the best services on the market
-
-**Tech used** : React.js, Webpack, Sass, Nodejs, Typescript, Express, Docker, Cassandra, Jest, Redux, Unit Testing
-
-### Freelancer - Bucharest
+### Freelancer (Multiple companies) - Remote
 
 *Fullstack Developer ( octomber 2016 - present )*
 
 - Develop large scale applications
-- In charge of the front end architecture
+- In charge of the frontend and backend architecture
 - Participate in all phases of development process
 - Integrate the best services on the market
 - Involvement in DevOps work 
 - Develop fast paced prototypes 
-- Develop Android and iOS mobile applications for B2B
+- Develop Android and iOS mobile applications for B2B using React Native
 
 **Tech used** : React.js, Redux, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Docker, Jest, Unit Testing, Python, Golang and many more...
 
@@ -52,6 +41,17 @@ Current experience
 
 Past experience
 ----
+
+### Metrosystems - Bucharest
+
+*Senior Front End Developer ( march 2018 - 2020 )*
+
+- Develop a large scale application
+- In charge of the front end architecture
+- Participate in all phases of development process
+- Integrate the best services on the market
+
+**Tech used** : React.js, Webpack, Sass, Nodejs, Typescript, Express, Docker, Cassandra, Jest, Redux, Unit Testing
 
 ### Rinftech - Bucharest
 
