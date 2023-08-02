@@ -37,10 +37,32 @@ Current experience
 
 **Tech used** : React.js, Redux, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Docker, Jest, Unit Testing, Python, Golang and many more...
 
+
 ---
 
 Past experience
 ----
+
+### Wyndy - USA
+
+*Senior Frontend Developer ( march 2021 - january 2023 )*
+
+- Develop a large scale application using React on the frontend and Rust on the backend
+- Add new features and maintain existing React Native mobile app
+
+**Tech used** : Ruby · React.js, Node.js, React Native
+
+### Add Health Company (Recomedica) - Bucharest
+
+*Co-Founder & CTO ( january 2018 - march 2022 )*
+
+- In charge of the frontend and backend architecture
+- Participate in all phases of development process
+- Integrate the best services on the market
+- Involvement in DevOps work
+- Develop fast paced prototypes
+
+**Tech used** : Strapi, Amazon Web Services (AWS), Stripe, TypeScript, NoSQL, React.js, Node.js
 
 ### Metrosystems - Bucharest
 
