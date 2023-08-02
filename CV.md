@@ -232,5 +232,5 @@ Language Proficiency
 ---
 
 - Romanian: native language
-- English: intermediate (speaking, reading, writing)
+- English: professional (speaking, reading, writing)
 - French: basic
