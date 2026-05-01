@@ -110,12 +110,29 @@ React.js, WebSockets, Node.js, Strapi, AWS, Firebase, Stripe
 **Co-Founder & CTO**  
 *Jan 2018 – Mar 2022*
 
-- Co-founded a healthcare platform and led all technical strategy
-- Designed full system architecture (frontend, backend, infrastructure)
-- Built scalable APIs and services using Node.js and Strapi
-- Managed AWS infrastructure and DevOps pipelines
-- Integrated secure payments via Stripe
-- Led product development lifecycle end-to-end
+- Co-founded and led the technical vision of a digital healthcare platform focused on medical second opinions and patient support
+- Designed and delivered two core platforms:
+
+  **Recomedica Free**
+  - Built a free second-opinion platform connecting patients with volunteer doctors
+  - Enabled patients to receive guidance and medical insights for their conditions
+  - Pioneered one of Romania’s first **COVID-19 home monitoring and guidance platforms**, helping patients track symptoms and receive remote medical support during the pandemic
+
+  **Recomedica PRO**
+  - Developed a premium, multi-disciplinary second opinion platform
+  - Designed structured patient journeys for complex medical cases
+  - Built a **multi-layer communication system** enabling collaboration between multiple doctors and patients within the same case
+  - Supported secure data sharing, medical records, and asynchronous communication flows
+
+- Architected the full system (frontend, backend, infrastructure) from the ground up
+- Built scalable APIs and backend services using Node.js and Strapi
+- Designed and managed cloud infrastructure and DevOps pipelines (AWS)
+- Integrated secure payment systems (Stripe)
+- Led product development lifecycle from idea → MVP → production
+- Collaborated closely with stakeholders, doctors, and product teams to align technical solutions with real-world medical needs
+
+**Tech Stack:**  
+Node.js, Strapi, AWS, React.js, TypeScript, NoSQL, Docker, Stripe
 
 ---
 
