@@ -207,11 +207,26 @@ React.js, Electron, Node.js, Python, C++, MySQL, Docker, IoT systems, Windows Em
 ---
 
 ### **Ari Matrix — Bucharest**
-**Senior Frontend Developer**  
+**Senior Frontend / Full-Stack Developer**  
 *Sep 2015 – Feb 2016*
 
-- Built and led a frontend team
-- Defined architecture and engineering standards
+- Part of a team of 6 developers building **AriLove**, a matchmaking platform focused on compatibility-driven relationships
+- Developed the platform from scratch, contributing across frontend, backend, and system architecture
+
+- Built a **complex questionnaire system (300+ questions)** designed to evaluate personality traits, preferences, and behavioral patterns
+- Collaborated with a team of 50+ psychologists who designed the matching methodology and scoring system
+- Implemented features that enabled **high-accuracy matchmaking (80%+ compatibility scoring)**
+
+- Contributed to:
+  - Frontend development (user flows, forms, UX for long-form questionnaires)
+  - Backend services and APIs
+  - System architecture and technical decisions
+  - Product brainstorming and feature design
+
+- Focused on performance, usability, and ensuring a smooth experience despite complex data input flows
+
+**Tech Stack:**  
+JavaScript, React.js, Node.js, HTML5, CSS3, REST APIs
 
 ---
 
