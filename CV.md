@@ -158,12 +158,42 @@ Node.js, Strapi, AWS, React.js, TypeScript, NoSQL, Docker, Stripe
 ---
 
 ### **DeviceHub / OpenFleetLabs — Bucharest**
-**Senior Frontend Developer**  
+**Senior Frontend / Full-Stack Engineer**  
 *Mar 2016 – Oct 2016*
 
-- Built IoT dashboards and real-time data visualization systems
-- Developed internal tools and mobile applications
-- Worked on scalable device communication systems
+- Part of a highly specialized team of 5 engineers building IoT and transportation systems
+- Contributed to the development and improvement of the DeviceHub platform for device management and real-time data monitoring
+
+- Key contributor to a **government contract** for implementing a full public transportation monitoring and ticketing system for **ETA Bus (Râmnicu Vâlcea)**
+
+- Designed and implemented a complete end-to-end solution from scratch:
+
+  **Ticket Validation System (Buses)**
+  - Developed hardware-integrated validation devices installed inside buses
+  - Built systems for validating tickets and subscriptions in real-time
+
+  **POS Systems for Ticketing & Subscriptions**
+  - Created POS devices using Windows Embedded systems
+  - Integrated:
+    - Card writers (subscription cards)
+    - Receipt printers
+    - Identity card scanners (for capturing and printing user photos on transport cards)
+  - Implemented full payment flow with receipt generation
+
+  **Ticket Vending Machines**
+  - Designed and built a self-service ticketing machine from scratch
+  - Developed the UI using Electron + React
+  - Integrated with low-level hardware via C++ services managing:
+    - Payment flows
+    - Hardware communication
+    - Multi-queue processing for reliability and concurrency
+
+- Built real-time dashboards and tools for monitoring transportation systems and devices
+- Worked across frontend, backend, and hardware integration layers
+- Ensured system reliability for production environments used by the public
+
+**Tech Stack:**  
+React.js, Electron, Node.js, Python, C++, MySQL, Docker, IoT systems, Windows Embedded
 
 ---
 
