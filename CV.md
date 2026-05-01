@@ -58,7 +58,6 @@ Python, TypeScript, React, Next.js, Node.js, NestJS, Pydantic, AWS (Bedrock), Li
 **Owner & Senior Full-Stack AI & Software Developer**  
 *Oct 2016 – Present*
 
-- Founded and scaled a software consultancy delivering web, mobile, and AI-driven solutions
 - Architected and developed scalable SaaS platforms across multiple industries
 - Built AI-powered systems including automation pipelines, integrations, and intelligent workflows
 - Delivered full-stack applications using React, Next.js, Node.js, Python, Golang
