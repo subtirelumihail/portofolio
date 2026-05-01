@@ -1,236 +1,250 @@
-# Subtirelu Mihail Gabriel
+# Subțirelu Mihail Gabriel
 
-
-**Phone:** +40 762 277 372 / **Email:** mihail@subtirelu.info
-
-**Date of birth:** 02 octomber 1989
-
-**Nationality:** Romanian
-
----
-
-Social
----
-
-**Website:** https://subtirelu.info
-
-**Github:** https://github.com/subtirelumihail
-
-**Linkedin:** https://ro.linkedin.com/in/subtirelu-mihail-4660836b
+📞 +40 762 277 372  
+📧 mihail@subtirelu.info  
+🌐 https://subtirelu.info  
+💻 https://github.com/subtirelumihail  
+🔗 https://ro.linkedin.com/in/subtirelu-mihail-4660836b  
 
 ---
 
-Current experience
-----
+## 🧠 Professional Summary
 
-### Freelancer (Multiple companies) - Remote
+Senior Full-Stack & AI Engineer with 12+ years of experience designing, building, and scaling high-performance web, mobile, and AI-powered systems.
 
-*Fullstack Developer ( octomber 2016 - present )*
+Strong expertise in:
+- AI-driven systems (LLMs, voice agents, automation platforms)
+- Scalable SaaS and B2B architectures
+- Full-stack engineering (React, Node.js, Python)
+- Real-time communication systems
+- Cloud infrastructure and DevOps
 
-- Develop large scale applications
-- In charge of the frontend and backend architecture
-- Participate in all phases of development process
-- Integrate the best services on the market
-- Involvement in DevOps work 
-- Develop fast paced prototypes 
-- Develop Android and iOS mobile applications for B2B using React Native
-
-**Tech used** : React.js, Redux, Nodejs, React Native, MongoDB, AWS, Digital Ocean, Wordpress, Docker, Jest, Unit Testing, Python, Golang and many more...
-
+Known for fast execution, strong product thinking, and the ability to turn complex ideas into working systems rapidly (POCs → production).
 
 ---
 
-Past experience
-----
+## 💼 Current Experience
 
-### Wyndy - USA
+### **Regal AI — Remote**
+**Senior AI & Full-Stack Engineer**  
+*Jan 2023 – Present*
 
-*Senior Frontend Developer ( march 2021 - january 2023 )*
+- Led development of AI-powered communication features within a large-scale SaaS platform
+- Designed and implemented **AI Agent Builder**, enabling users to create intelligent voice and SMS agents using LLMs and automation workflows
+- Built and extended **IVR (Interactive Voice Response)** systems — automated telephony systems that interact with users via voice and keypad inputs — significantly improving call routing and automation efficiency
+- Developed full-stack features across frontend and backend, ensuring seamless integration between UI, APIs, and AI services
+- Integrated advanced AI providers: OpenAI, ElevenLabs, Retell, AWS Bedrock
+- Built knowledge base systems to enhance AI agent contextual reasoning and response quality
+- Implemented real-time communication systems using LiveKit and Twilio
+- Designed scalable backend services using Python (Pydantic) and NestJS
+- Improved platform performance, usability, and feature adoption through iterative UI/UX enhancements
+- Participated in on-call rotations; debugged and resolved production issues using Datadog
+- Contributed to infrastructure tooling using Docker and LocalStack
+- Led technical planning and execution:
+  - Scoped tickets and defined technical requirements
+  - Authored RFCs
+  - Translated product needs into engineering tasks
+  - Collaborated cross-functionally across teams
+- Hackathons (3/4 wins):
+  - Built **Spotlight-like universal search** across the platform
+  - Created action-based workflow system (Slack/Telegram-style automations: calls, AI agents, workflows)
 
-- Develop a large scale application using React on the frontend and Rust on the backend
-- Add new features and maintain existing React Native mobile app
-
-**Tech used** : Ruby · React.js, Node.js, React Native
-
-### Add Health Company (Recomedica) - Bucharest
-
-*Co-Founder & CTO ( january 2018 - march 2022 )*
-
-- In charge of the frontend and backend architecture
-- Participate in all phases of development process
-- Integrate the best services on the market
-- Involvement in DevOps work
-- Develop fast paced prototypes
-
-**Tech used** : Strapi, Amazon Web Services (AWS), Stripe, TypeScript, NoSQL, React.js, Node.js
-
-### Metrosystems - Bucharest
-
-*Senior Front End Developer ( march 2018 - 2020 )*
-
-- Develop a large scale application
-- In charge of the front end architecture
-- Participate in all phases of development process
-- Integrate the best services on the market
-
-**Tech used** : React.js, Webpack, Sass, Nodejs, Typescript, Express, Docker, Cassandra, Jest, Redux, Unit Testing
-
-### Rinftech - Bucharest
-
-*Senior Front End Developer ( octomber 2016 - march 2018 )*
-
-**Tech used** : React.js, Webpack, Sass, Java, Nodejs
-
-### Devicehub.net && Openfleetlabs - Bucharest
-*Senior Front End Developer ( march 2016 - octomber 2016 )*
-
-- Improve the current devicehub.net platform
-- Work on various IoT projects
-- Create and implement a ticketing solution for Openfleetlabs
-- Create a mobile application
-
-**Tech used** : React.js, Webpack, Sass, python, Mysql, React Native, Electron, Docker, Xcode, Java, C#, Nodejs
-
-### WowApp - Bucharest
-*Senior Front End Developer ( february 2016 )*
-
-- Maintain existing website
-- Develop new large scale applications
-- Participate in all phases of development process
-
-**Tech used** : Javascript, Coffescript, Stylus, HTML5, Node.js, Brunch, BackboneJS, Chaplin
-
-### Ari Matrix - Bucharest
-*Senior Front End Developer ( september 2015 – february 2016 )*
-
-- Build a team from scratch
-- Develop a large scale application
-- In charge of the front end architecture
-- Participate in all phases of development process
-- Integrate the best services on the market
-
-**Tech used** : Confidential
-
-### Kalon Global Group, Inc. - Bucharest
-*Front End Developer ( november 2014 – september 2015 )*
-
-- Develop a fast prototype for a large scale application
-- In charge of the front end architecture of a large scale application
-- Participate in all phases of development process
-
-**Tech used** : Javascript, SCSS, HTML5, Node.js, React.js, Webpack, Github, Babel
-
-
-### XL Team - Bucharest
-*Front End Developer ( august 2014 – november 2014 )*
-
-- Develop multiple web applications for various clients
-- Understand the goals and strategy behind each project from conception through completion
-- Participate in all phases of development process ( including in the design process )
-
-**Tech used** : PHP, MySQL, MsSQL, MongoDB, Javascript, SCSS, HTML5, Node.js, Backbone.js, Gulp.js, Wordpress, Phonegap, Github, GitLab, Babel
-
-
-###  Digital Star (Leo Burnett) - Bucharest
-*Senior Web Developer (august 2013 – july 2014)*
-
-- Develop multiple web applications for various clients
-- Develop multiple Facebook page apps
-- Participate in all phases of development process ( including in the design process )
-- Understand the client needs for each project
-- Won multiple awards on 2 projects
-- The agency won Best Agency of the year in 2014
-
-**Tech used** : PHP, MySQL, Javascript, SCSS, HTML5, Less, Node.js, Gulp.js, Wordpress, Codeigniter, Smarty, Github, Facebook Javascript & PHP SDK, jQuery
-
-
-### Romnet Creative - Bucharest
-*Web Developer (march 2013 – august 2013)*
-
-- Develop multiple web applications for various clients
-- Develop multiple Facebook page apps
-- Establish what technologies fit best the business requirements
-- Participate in all phases of development process ( including in the design process )
-- Understand the client needs for each project
-
-**Tech used** : PHP, MySQL, Javascript, CSS, HTML5, Wordpress, Codeigniter, OpenCart, osCommerce, CakePHP, SimplePHP, Smarty, jQuery
-
-
-### GCNTV.net
-*Web Developer (july 2012 – march 2013)*
-
-- Develop from scratch a WebTv platform for video streaming of romanian channels in the USA
-- Integrate the payment module from First Data
-- Optimize the platform for large scalling
-- Created a custom PHP framework
-
-**Tech used** : PHP, MySQL, Javascript, CSS, CakePHP, Smarty, jQuery, FirstData PHP & Javascript SDK
-
-
-###  Dezibel Media
-*Web Developer (june 2012 – july 2012)*
-
-- Develop multiple web applications for various clients
-
-**Tech used** : PHP, MySQL, Javascript, CSS, osCommerce, OpenCart, Smarty, jQuery
-
-
-### Ipsos Interactive Service
-*Front End Developer & QA (june 2011 - june 2012)*
-
-- Develop online surveys using front end technologies
-- Test surveys created by other developers
-- Understand the client needs for each project
-
-**Tech used** : Javascript, CSS, HTML, jQuery, ConfirmIT
+**Tech Stack:**  
+Python, TypeScript, React, Next.js, Node.js, NestJS, Pydantic, AWS (Bedrock), LiveKit, Twilio, Retell, ElevenLabs, OpenAI, Docker, LocalStack, Datadog
 
 ---
 
-Technologies & tools
----
+### **Webtron Future Solutions (Freelance) — Remote**
+**Owner & Senior Full-Stack AI & Software Developer**  
+*Oct 2016 – Present*
 
-| Technologies  | Frequency     | Skill |
-| ------------- |-------------  | ----- |
-| Javascript    | very used     | +++++ |
-| React.js      | very used     | +++++ |
-| Redux         | very used     | +++++ |
-| Typescript    | used          | ++++  |
-| Jest          | used          | ++++  |
-| Node.js       | very used     | +++++ |
-| Express       | very used     | +++++ |
-| Docker        | very used     | +++++ |
-| Webpack.js    | very used     | +++++ |
-| React Native  | used          | ++++  |
-| Gulp.js       | very used     | ++++  |
-| jQuery        | very used     | +++++ |
-| Backbone.js   | used          | +++   |
-| MongoDB       | used          | ++++  |
-| CSS           | very used     | +++++ |
-| SCSS          | very used     | +++++ |
-| HTML5         | very used     | +++++ |
-| PHP           | used          | ++++  |
-| Mysql         | used          | ++++  |
+- Founded and scaled a software consultancy delivering web, mobile, and AI-driven solutions
+- Architected and developed scalable SaaS platforms across multiple industries
+- Built AI-powered systems including automation pipelines, integrations, and intelligent workflows
+- Delivered full-stack applications using React, Next.js, Node.js, Python, Golang
+- Developed mobile applications (React Native) for B2B use cases
+- Designed cloud infrastructure and CI/CD pipelines (AWS, DigitalOcean)
+- Integrated complex third-party systems (Stripe, messaging APIs, analytics tools)
+- Worked directly with clients from idea → architecture → production
+- Rapidly built MVPs and POCs to validate product ideas
+- Focused on performance, scalability, and clean architecture
 
 ---
 
-Educations
+## 🧑‍💻 Professional Experience
+
+### **Avochat — Remote**
+**Co-Founder & Full-Stack Developer**  
+*Nov 2020 – Jul 2022*
+
+- Co-founded and built a real-time communication platform for lawyers and clients
+- Developed a **chat-based monetization system**, enabling payments directly within conversations
+- Implemented **secure file sharing with paywall access control**
+- Built a full CMS platform for lawyers:
+  - Client management
+  - Task management
+  - File storage
+  - Messaging system
+- Designed real-time communication using WebSockets
+- Implemented notifications system using Firebase
+- Integrated Stripe (including Express Connect for providers/lawyers payouts)
+- Built scalable backend using Strapi and AWS cloud services
+
+**Tech Stack:**  
+React.js, WebSockets, Node.js, Strapi, AWS, Firebase, Stripe
+
 ---
 
-#### Romanian - American University Law School (2008 - 2012) - Bucharest
-Status: Abanndoned (4th year)
+### **Wyndy — USA**
+**Senior Frontend Engineer**  
+*Mar 2021 – Jan 2023*
 
-#### Romanian - American University of Computer Science And Management (2008 - 2011) - Bucharest
-Status: Completed
-
-
-#### "Nicolae Iorga" High School (2004 - 2008) - Bucharest
-Profile: Computer Science
+- Developed and maintained a high-traffic platform serving thousands of users
+- Built scalable and performant frontend systems using React
+- Collaborated with backend teams (Rust) for seamless API integrations
+- Enhanced React Native mobile applications
+- Improved performance, maintainability, and developer experience
 
 ---
 
-Language Proficiency
+### **Recomedica (Add Health Company) — Bucharest**
+**Co-Founder & CTO**  
+*Jan 2018 – Mar 2022*
+
+- Co-founded a healthcare platform and led all technical strategy
+- Designed full system architecture (frontend, backend, infrastructure)
+- Built scalable APIs and services using Node.js and Strapi
+- Managed AWS infrastructure and DevOps pipelines
+- Integrated secure payments via Stripe
+- Led product development lifecycle end-to-end
+
 ---
 
-- Romanian: native language
-- English: professional (speaking, reading, writing)
-- French: basic
+### **Metrosystems — Bucharest**
+**Senior Frontend Developer**  
+*Mar 2018 – 2020*
+
+- Led frontend architecture for enterprise applications
+- Built scalable UI systems using React and Redux
+- Improved performance and modular architecture
+- Collaborated closely with backend teams
+
+---
+
+### **Rinftech — Bucharest**
+**Senior Frontend Developer**  
+*Oct 2016 – Mar 2018*
+
+- Developed modern React-based applications
+- Improved UI performance and maintainability
+- Contributed to architectural decisions
+
+---
+
+### **DeviceHub / OpenFleetLabs — Bucharest**
+**Senior Frontend Developer**  
+*Mar 2016 – Oct 2016*
+
+- Built IoT dashboards and real-time data visualization systems
+- Developed internal tools and mobile applications
+- Worked on scalable device communication systems
+
+---
+
+### **WowApp — Bucharest**
+**Senior Frontend Developer**  
+*Feb 2016*
+
+- Delivered features for a large-scale social platform
+- Worked in fast-paced, high-pressure environment
+
+---
+
+### **Ari Matrix — Bucharest**
+**Senior Frontend Developer**  
+*Sep 2015 – Feb 2016*
+
+- Built and led a frontend team
+- Defined architecture and engineering standards
+
+---
+
+### **Earlier Career (2011 – 2015)**
+
+Worked across multiple agencies and companies including:
+- Kalon Global Group
+- XL Team
+- Digital Star (Leo Burnett)
+- Romnet Creative
+- GCNTV.net
+- Dezibel Media
+- Ipsos Interactive Services
+
+Key contributions:
+- Built full-stack web applications
+- Developed marketing platforms and social integrations
+- Created a scalable video streaming platform from scratch
+- Implemented payment systems and custom frameworks
+- Worked across the full software lifecycle (design → development → deployment)
+
+---
+
+## 🛠️ Technical Skills
+
+**Frontend:**  
+JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, React Native, HTML5, CSS3, SCSS  
+
+**Backend & AI:**  
+Node.js, NestJS, Python, Golang, LLM Integrations, AI Agents, Automation Systems, Pydantic AI, REST APIs, GraphQL  
+
+**Databases:**  
+MongoDB, PostgreSQL, MySQL, Cassandra  
+
+**Cloud & DevOps:**  
+AWS (incl. Bedrock), Docker, CI/CD, DigitalOcean, LocalStack  
+
+**Tools:**  
+Datadog, Jest, Webpack, Git  
+
+**Integrations:**  
+Stripe, Twilio, LiveKit, OpenAI, ElevenLabs, Retell  
+
+---
+
+## 🎓 Education
+
+**Romanian-American University — Computer Science & Management**  
+*2008 – 2011*
+
+**Romanian-American University — Law School**  
+*2008 – 2012*
+
+**“Nicolae Iorga” High School — Computer Science**  
+*2004 – 2008*
+
+---
+
+## 🌍 Languages
+
+- Romanian — Native  
+- English — Professional (C1)  
+- French — Basic  
+
+---
+
+## 🚀 Highlights
+
+- 12+ years experience in software engineering
+- Strong focus on AI systems, automation, and real-time platforms
+- Built voice AI, IVR systems, and conversational agents
+- Founder & CTO experience (multiple products)
+- Hackathon winner (3/4 participations)
+- Strong product mindset + rapid execution (idea → POC → production)
+
+---
+
+## ⚡ Personal
+
+- Enjoy brainstorming and rapidly building proof-of-concepts for new ideas
+- Passionate about technology, automation, and system design
+- Hobbies: LEGO building, outdoor activities, fishing, hardware tinkering
