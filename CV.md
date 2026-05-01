@@ -68,6 +68,9 @@ Python, TypeScript, React, Next.js, Node.js, NestJS, Pydantic, AWS (Bedrock), Li
 - Rapidly built MVPs and POCs to validate product ideas
 - Focused on performance, scalability, and clean architecture
 
+**Tech Stack:**  
+Python, TypeScript, React, Next.js, Node.js, NestJS, GoLang, OpenAI, Google Gemeni, Docker, Datadog, React Native, AWS
+
 ---
 
 ## 🧑‍💻 Professional Experience
