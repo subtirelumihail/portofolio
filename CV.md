@@ -55,7 +55,7 @@ Python, TypeScript, React, Next.js, Node.js, NestJS, Pydantic, AWS (Bedrock), Li
 ---
 
 ### **Webtron Future Solutions (Freelance) — Remote**
-**Owner & Senior Full-Stack AI & Software Developer**  
+**Owner - Senior Full-Stack AI & Software Developer**  
 *Oct 2016 – Present*
 
 - Architected and developed scalable SaaS platforms across multiple industries
@@ -93,7 +93,7 @@ Python, TypeScript, React, Next.js, Node.js, NestJS, GoLang, OpenAI, Google Geme
 - Built scalable backend using Strapi and AWS cloud services
 
 **Tech Stack:**  
-React.js, WebSockets, Node.js, Strapi, AWS, Firebase, Stripe
+React.js, Next.js, WebSockets, Node.js, Strapi, AWS, Firebase, Stripe
 
 ---
 
