@@ -29,7 +29,7 @@ Known for fast execution, strong product thinking, and the ability to turn compl
 **Senior AI & Full-Stack Engineer**  
 *Jan 2023 – Present*
 
-- Led development of AI-powered communication features within a large-scale SaaS platform
+- Part of a team that developed AI-powered communication features within a large-scale SaaS platform
 - Designed and implemented **AI Agent Builder**, enabling users to create intelligent voice and SMS agents using LLMs and automation workflows
 - Built and extended **IVR (Interactive Voice Response)** systems — automated telephony systems that interact with users via voice and keypad inputs — significantly improving call routing and automation efficiency
 - Developed full-stack features across frontend and backend, ensuring seamless integration between UI, APIs, and AI services
@@ -57,6 +57,8 @@ Python, TypeScript, React, Next.js, Node.js, NestJS, Pydantic, AWS (Bedrock), Li
 ### **Webtron Future Solutions (Freelance) — Remote**
 **Owner - Senior Full-Stack AI & Software Developer**  
 *Oct 2016 – Present*
+
+This is my legal entity under which I do contract work.
 
 - Architected and developed scalable SaaS platforms across multiple industries
 - Built AI-powered systems including automation pipelines, integrations, and intelligent workflows
